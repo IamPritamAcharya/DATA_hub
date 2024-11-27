@@ -1,17 +1,19 @@
-# First Year Subjects
+import 'package:flutter/material.dart';
 
-## Math
-- [Notes](https://example.com/math-notes.pdf)
-- [Lab Manual](https://example.com/math-lab.pdf)
-- [YouTube Playlist](https://www.youtube.com/watch?v=iET1GZc9CMI)
-
-
-## Chemistry
-- [Notes](https://example.com/chemistry-notes.pdf)
-- [Lab Manual](https://example.com/chemistry-lab.pdf)
-- [YouTube Playlist](https://youtube.com/playlist?list=chemistry)
-
-## Physics
-- [Notes](https://example.com/physics-notes.pdf)
-- [Lab Manual](https://example.com/physics-lab.pdf)
-- [YouTube Playlist](https://youtube.com/playlist?list=physics)
+class ThirdPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.amber,
+      appBar: AppBar(
+        title: Text('Third Page'),
+      ),
+      body: Center(
+        child: Text(
+          'This is the Third Page',
+          style: TextStyle(fontSize: 24),
+        ),
+      ),
+    );
+  }
+}
