@@ -3,7 +3,7 @@
 ## Math
 - [Notes](https://example.com/math-notes.pdf)
 - [Lab Manual](https://example.com/math-lab.pdf)
-- [YouTube Playlist]([https://youtube.com/playlist?list=math](https://www.youtube.com/watch?v=iET1GZc9CMI))
+- [YouTube Playlist](https://youtu.be/iET1GZc9CMI?si=WLn-w2IDT85U-mzK)
 
 ## Chemistry
 - [Notes](https://example.com/chemistry-notes.pdf)
