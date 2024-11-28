@@ -1,0 +1,30 @@
+{
+  "math": [
+    {
+      "name": "B V Ramana",
+      "url": "https://drive.google.com/file/d/1g3qelDEhxIrnchZKTNP1aLRlGrsinSKV/view?usp=sharing",
+      "icon": "picture_as_pdf",
+      "cover": "url_to_cover_image_1"
+    },
+    {
+      "name": "Differential Equations - i",
+      "url": "https://drive.google.com/file/d/160JtdpvtxXFMrrFBVL7MxCULx4vhbCvn/view?usp=drive_link",
+      "icon": "picture_as_pdf",
+      "cover": "url_to_cover_image_2"
+    }
+  ],
+  "chemistry": [
+    {
+      "name": "Corrosion",
+      "url": "https://drive.google.com/file/d/191OS9ImtS_1hTHcO7yEooianqsaCXbKd/view?usp=drive_link",
+      "icon": "picture_as_pdf",
+      "cover": "url_to_cover_image_10"
+    },
+    {
+      "name": "Fuel",
+      "url": "https://drive.google.com/file/d/19B84Ph4nYhHpfxzdx1Ms_2KtCO8_Omza/view?usp=drive_link",
+      "icon": "picture_as_pdf",
+      "cover": "url_to_cover_image_11"
+    }
+  ]
+}
