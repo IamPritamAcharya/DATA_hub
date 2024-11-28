@@ -1,0 +1,17 @@
+{
+  "subjects": [
+    {
+      "name": "Math",
+      "chapters": [
+        { "name": "B V Ramana", "url": "https://drive.google.com/file/d/1g3qelDEhxIrnchZKTNP1aLRlGrsinSKV/view?usp=sharing" },
+        { "name": "Differential Equations - i", "url": "https://drive.google.com/file/d/160JtdpvtxXFMrrFBVL7MxCULx4vhbCvn/view?usp=drive_link" }
+      ]
+    },
+    {
+      "name": "Science",
+      "chapters": [
+        { "name": "Physics Notes", "url": "https://example.com/physics" }
+      ]
+    }
+  ]
+}
