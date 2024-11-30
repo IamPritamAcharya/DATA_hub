@@ -12,6 +12,32 @@
       {"name": "Dr.Gajendra Purohit", "url": "https://youtube.com/playlist?list=PLU6SqdYcYsfINU_Y9CMp1pZ827ZB1U-Xn&si=th4FTjQyY6hHJFby"},
       {"name": "Pradeep Giri Academy", "url": "https://youtube.com/playlist?list=PLT3bOBUU3L9hsRRQi1X_4kn6Lw6K_-9cq&si=51ofQ7J4MDDvATgg"}
     ]
+  },  {
+    "name": "Math",
+    "items": [
+      {"name": "B V Ramana", "url": "https://drive.google.com/file/d/1g3qelDEhxIrnchZKTNP1aLRlGrsinSKV/view?usp=sharing"},
+      {"name": "Differential Equations - i", "url": "https://drive.google.com/file/d/160JtdpvtxXFMrrFBVL7MxCULx4vhbCvn/view?usp=drive_link"},
+      {"name": "Differential Equations - ii", "url": "https://drive.google.com/file/d/1U8l6MQ7EhndmCINCOUGtV4tM8DV8TzWZ/view?usp=drive_link"},
+      {"name": "Matrix - i", "url": "https://drive.google.com/file/d/1AhfuC6Z4A03l3hfEXg1KbwI4S3poEx4D/view?usp=sharing"},
+      {"name": "Matrix - ii", "url": "https://drive.google.com/file/d/18rRymd-Z-2B1MnUb4IAiYWNxpj7wti1b/view?usp=drive_link"},
+      {"name": "Vector Differential Calculus", "url": "https://drive.google.com/file/d/1Dm-k7ClcIohJiaL49r5yMvk7gy-Ajc4v/view?usp=drive_link"},
+      {"name": "Semester - ii", "url": "https://drive.google.com/file/d/1RItYfRjUft_8BGSnnCwPqq8c2iqqwBd5/view?usp=drive_link"},
+      {"name": "Dr.Gajendra Purohit", "url": "https://youtube.com/playlist?list=PLU6SqdYcYsfINU_Y9CMp1pZ827ZB1U-Xn&si=th4FTjQyY6hHJFby"},
+      {"name": "Pradeep Giri Academy", "url": "https://youtube.com/playlist?list=PLT3bOBUU3L9hsRRQi1X_4kn6Lw6K_-9cq&si=51ofQ7J4MDDvATgg"}
+    ]
+  },  {
+    "name": "Math",
+    "items": [
+      {"name": "B V Ramana", "url": "https://drive.google.com/file/d/1g3qelDEhxIrnchZKTNP1aLRlGrsinSKV/view?usp=sharing"},
+      {"name": "Differential Equations - i", "url": "https://drive.google.com/file/d/160JtdpvtxXFMrrFBVL7MxCULx4vhbCvn/view?usp=drive_link"},
+      {"name": "Differential Equations - ii", "url": "https://drive.google.com/file/d/1U8l6MQ7EhndmCINCOUGtV4tM8DV8TzWZ/view?usp=drive_link"},
+      {"name": "Matrix - i", "url": "https://drive.google.com/file/d/1AhfuC6Z4A03l3hfEXg1KbwI4S3poEx4D/view?usp=sharing"},
+      {"name": "Matrix - ii", "url": "https://drive.google.com/file/d/18rRymd-Z-2B1MnUb4IAiYWNxpj7wti1b/view?usp=drive_link"},
+      {"name": "Vector Differential Calculus", "url": "https://drive.google.com/file/d/1Dm-k7ClcIohJiaL49r5yMvk7gy-Ajc4v/view?usp=drive_link"},
+      {"name": "Semester - ii", "url": "https://drive.google.com/file/d/1RItYfRjUft_8BGSnnCwPqq8c2iqqwBd5/view?usp=drive_link"},
+      {"name": "Dr.Gajendra Purohit", "url": "https://youtube.com/playlist?list=PLU6SqdYcYsfINU_Y9CMp1pZ827ZB1U-Xn&si=th4FTjQyY6hHJFby"},
+      {"name": "Pradeep Giri Academy", "url": "https://youtube.com/playlist?list=PLT3bOBUU3L9hsRRQi1X_4kn6Lw6K_-9cq&si=51ofQ7J4MDDvATgg"}
+    ]
   },
   {
     "name": "Chemistry",
