@@ -59,5 +59,17 @@
       {"name": "Module 5", "url": "https://drive.google.com/file/d/1lDzdV5rF6pAnBvj5PH8zE0oqmQ4gM6Lz/view?usp=drive_link"},
       {"name": "Module 6", "url": "https://drive.google.com/file/d/1yzGrQ8Znbkm9hTKZ9KY84b5g3W9V5y6s/view?usp=drive_link"}
     ]
+  },
+  {
+    "name": "LA LA LA",
+    "items": [
+      {"name": "Engineering Mechanics By R S Khurmi", "url": "https://drive.google.com/file/d/1nf2X3NVkdqzrYff2TrdJ48klPwZ7J_Dm/view?usp=drive_link"},
+      {"name": "Module 1", "url": "https://drive.google.com/file/d/1eTPh2QaRq9Id_56CrZi8fNAOn1LGC50P/view?usp=drive_link"},
+      {"name": "Module 2", "url": "https://drive.google.com/file/d/1d7rql9xl8zDPY5P7JFRqVubZnA0KcLoI/view?usp=drive_link"},
+      {"name": "Module 3", "url": "https://drive.google.com/file/d/1boRY3Or7Zw5LlK_d9LIrVz-jwl1AZ9uY/view?usp=drive_link"},
+      {"name": "Module 4", "url": "https://drive.google.com/file/d/1nk3tfsIa9lDl6fA8XEX1uD5Zri5CWB0w/view?usp=drive_link"},
+      {"name": "Module 5", "url": "https://drive.google.com/file/d/1lDzdV5rF6pAnBvj5PH8zE0oqmQ4gM6Lz/view?usp=drive_link"},
+      {"name": "Module 6", "url": "https://drive.google.com/file/d/1yzGrQ8Znbkm9hTKZ9KY84b5g3W9V5y6s/view?usp=drive_link"}
+    ]
   }
 ]
