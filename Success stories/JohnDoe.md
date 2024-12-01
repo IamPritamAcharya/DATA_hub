@@ -1,6 +1,7 @@
 ---
-image: https://example.com/johndoe.jpg
-company: Example Corp
+name: John Doe
+image_url: https://example.com/john_doe.jpg
+company: Google
 ---
 
-John Doe is a talented software engineer working at Example Corp. He specializes in Flutter and has contributed significantly to many open-source projects. Here's his inspiring success story.
+John Doe started his journey as a junior developer and is now a lead engineer at Google. His story is an inspiration for aspiring developers everywhere.
