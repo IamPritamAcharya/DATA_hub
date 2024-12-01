@@ -7,7 +7,7 @@ company: Microsoft
 John Doe is a software engineer at Google. His journey is inspiring.
 
 > "Success is not just about reaching the destination, but about embracing the lessons along the way."  
-<span style="font-family: 'PT Sans', sans-serif; color: #4CAF50; font-size: 16px;">— John Doe</span>
+
 
 ### Early Life and Education
 John grew up in a small town where access to technology was limited. His passion for problem-solving and curiosity about computers led him to pursue a degree in Computer Science at Stanford University, where he graduated with honors.
@@ -27,6 +27,6 @@ John actively participates in mentoring programs and organizes coding bootcamps 
 Outside of work, John is an avid traveler, photographer, and chess enthusiast. He finds inspiration in nature and uses photography as a medium to share his perspective with the world.
 
 > *"Innovation is born at the crossroads of curiosity and persistence."*  
-<span style="font-family: 'PT Sans', sans-serif; color: #FF5722; font-size: 16px;">— John Doe</span>
+
 
 John’s journey reminds us that with passion, perseverance, and a growth mindset, no dream is too big to achieve.
