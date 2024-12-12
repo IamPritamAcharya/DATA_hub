@@ -1,14 +1,19 @@
 [
   {
-    "imageUrl": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
+    "images": [
+      "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
+      "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e"
+    ],
     "name": "AKASH BHAWAN",
     "tag": "Hostel",
-    "fullDescription": "4 student accommodation, decent rooms, decent food, A-block is better, has Volleyball court, for 1st year boys"
+    "description": "### Akash Bhawan\n**4 student accommodation**, *decent rooms*, decent food.\n- A-block is better\n- Has Volleyball court\n- For 1st year boys"
   },
   {
-    "imageUrl": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
+    "images": [
+      "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e"
+    ],
     "name": "RAVI BHAWAN",
     "tag": "Hostel",
-    "fullDescription": "A-block with better facilities, available for 2nd year students, good food and a gym."
+    "description": "### Ravi Bhawan\nA-block with **better facilities**:\n- Available for 2nd year students\n- Good food\n- Includes a gym"
   }
 ]
