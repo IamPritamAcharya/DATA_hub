@@ -1,20 +1,14 @@
 [
   {
-    "name": "Library",
-    "tag": "Education",
-    "image_url": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
-    "description": "A space offering a wide variety of books and learning materials."
+    "imageUrl": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
+    "name": "AKASH BHAWAN",
+    "tag": "Hostel",
+    "fullDescription": "4 student accommodation, decent rooms, decent food, A-block is better, has Volleyball court, for 1st year boys"
   },
   {
-    "name": "Sports Complex",
-    "tag": "Recreation",
-    "image_url": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
-    "description": "A fully equipped facility for various sports and fitness activities."
-  },
-  {
-    "name": "Cafeteria",
-    "tag": "Food",
-    "image_url": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
-    "description": "A place to enjoy meals and refreshments."
+    "imageUrl": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
+    "name": "RAVI BHAWAN",
+    "tag": "Hostel",
+    "fullDescription": "A-block with better facilities, available for 2nd year students, good food and a gym."
   }
 ]
