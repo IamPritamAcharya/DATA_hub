@@ -3,8 +3,8 @@
 ## Portable Charger
 **Tags:** electronics, travel, convenience  
 **Image URLs:**  
-- https://example.com/images/charger1.jpg  
-- https://example.com/images/charger2.jpg  
+- https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e
+- https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e
 
 **Description:**  
 Stay charged during your adventures with this **lightweight** and **compact** portable charger. It features:  
@@ -16,7 +16,7 @@ Stay charged during your adventures with this **lightweight** and **compact** po
 ## Travel Pillow
 **Tags:** comfort, travel, accessories  
 **Image URLs:**  
-- https://example.com/images/pillow.jpg  
+- https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e
 
 **Description:**  
 Experience **unparalleled comfort** with our ergonomic memory foam pillow.  
