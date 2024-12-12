@@ -2,19 +2,19 @@
   {
     "name": "Library",
     "tag": "Education",
-    "image_url": "https://example.com/library.jpg",
+    "image_url": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
     "description": "A space offering a wide variety of books and learning materials."
   },
   {
     "name": "Sports Complex",
     "tag": "Recreation",
-    "image_url": "https://example.com/sports_complex.jpg",
+    "image_url": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
     "description": "A fully equipped facility for various sports and fitness activities."
   },
   {
     "name": "Cafeteria",
     "tag": "Food",
-    "image_url": "https://example.com/cafeteria.jpg",
+    "image_url": "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
     "description": "A place to enjoy meals and refreshments."
   }
 ]
