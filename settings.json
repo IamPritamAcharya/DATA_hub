@@ -1,4 +1,3 @@
-
 {
   "storyUrls": [
     {
@@ -44,5 +43,6 @@
     "gandu"
   ],
   "name_1st_tab": "Horizon",
-  "markdownContent_1st_tab": "# Welcome to the Second Page!\n\nThis page is rendered using **Markdown**.\n\n- Use headers like this one\n- Add **bold** or *italic* text\n- Create lists or even [links](https://flutter.dev)"
+  "markdownContent_1st_tab": "# Welcome to the Second Page!\n\nThis page is rendered using **Markdown**.\n\n- Use headers like this one\n- Add **bold** or *italic* text\n- Create lists or even [links](https://flutter.dev)",
+  "showFirstTab": true
 }
