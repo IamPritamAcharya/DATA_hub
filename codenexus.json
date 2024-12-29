@@ -1,1 +1,22 @@
- 
+ {
+  "showPage": true,
+  "questions": [
+    {
+      "title": "Sum of Two Numbers",
+      "description": "Write a function that takes two numbers as input and returns their sum.\n\n### Example\n```python\nInput: 2, 3\nOutput: 5\n```",
+      "testCases": [
+        { "input": "2, 3", "expectedOutput": "5" },
+        { "input": "10, 20", "expectedOutput": "30" }
+      ]
+    },
+    {
+      "title": "Reverse a String",
+      "description": "Write a function that reverses a given string.\n\n### Example\n```python\nInput: \"hello\"\nOutput: \"olleh\"\n```",
+      "testCases": [
+        { "input": "\"hello\"", "expectedOutput": "\"olleh\"" },
+        { "input": "\"world\"", "expectedOutput": "\"dlrow\"" }
+      ]
+    }
+  ]
+}
+
