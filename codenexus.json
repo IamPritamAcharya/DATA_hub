@@ -1,22 +1,37 @@
- {
-  "showPage": true,
+{
+  "show": true,
   "questions": [
     {
-      "title": "Sum of Two Numbers",
-      "description": "Write a function that takes two numbers as input and returns their sum.\n\n### Example\n```python\nInput: 2, 3\nOutput: 5\n```",
-      "testCases": [
-        { "input": "2, 3", "expectedOutput": "5" },
-        { "input": "10, 20", "expectedOutput": "30" }
-      ]
-    },
-    {
+      "id": 1,
       "title": "Reverse a String",
-      "description": "Write a function that reverses a given string.\n\n### Example\n```python\nInput: \"hello\"\nOutput: \"olleh\"\n```",
+      "description": "Write a function to reverse a string.\n\n### Example:\nInput: `hello`\nOutput: `olleh`",
+      "languages": {
+        "python": "def reverse_string(s):\n    pass",
+        "java": "class Solution {\n    public String reverseString(String s) {\n        return \"\";\n    }\n}",
+        "c++": "#include<string>\nusing namespace std;\nstring reverseString(string s) {\n    return \"\";\n}",
+        "c": "#include<stdio.h>\nvoid reverseString(char* s) {\n    // implement here\n}",
+        "javascript": "function reverseString(s) {\n    return '';\n}"
+      },
       "testCases": [
         { "input": "\"hello\"", "expectedOutput": "\"olleh\"" },
         { "input": "\"world\"", "expectedOutput": "\"dlrow\"" }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Check Palindrome",
+      "description": "Write a function to check if a string is a palindrome.\n\n### Example:\nInput: `racecar`\nOutput: `true`",
+      "languages": {
+        "python": "def is_palindrome(s):\n    pass",
+        "java": "class Solution {\n    public boolean isPalindrome(String s) {\n        return false;\n    }\n}",
+        "c++": "#include<string>\nusing namespace std;\nbool isPalindrome(string s) {\n    return false;\n}",
+        "c": "#include<stdio.h>\nbool isPalindrome(char* s) {\n    return false;\n}",
+        "javascript": "function isPalindrome(s) {\n    return false;\n}"
+      },
+      "testCases": [
+        { "input": "\"racecar\"", "expectedOutput": "true" },
+        { "input": "\"hello\"", "expectedOutput": "false" }
+      ]
     }
   ]
 }
-
