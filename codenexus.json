@@ -2,35 +2,18 @@
   "show": true,
   "questions": [
     {
-      "id": 1,
       "title": "Reverse a String",
-      "description": "Write a function to reverse a string.\n\n### Example:\nInput: `hello`\nOutput: `olleh`",
+      "description": "Write a function to reverse a string. Example: Input: `hello` Output: `olleh`",
       "languages": {
-        "python": "def reverse_string(s):\n    pass",
-        "java": "class Solution {\n    public String reverseString(String s) {\n        return \"\";\n    }\n}",
-        "c++": "#include<string>\nusing namespace std;\nstring reverseString(string s) {\n    return \"\";\n}",
-        "c": "#include<stdio.h>\nvoid reverseString(char* s) {\n    // implement here\n}",
-        "javascript": "function reverseString(s) {\n    return '';\n}"
+        "python": "def reverse_string(s):\n    pass\n\nif __name__ == '__main__':\n    import sys\n    input_value = sys.stdin.read().strip()\n    print(reverse_string(input_value))",
+        "java": "import java.util.Scanner;\n\npublic class Solution {\n    public static String reverseString(String s) {\n        // User's code here\n    }\n\n    public static void main(String[] args) {\n        Scanner scanner = new Scanner(System.in);\n        String input = scanner.nextLine();\n        System.out.println(reverseString(input));\n    }\n}",
+        "c++": "#include <iostream>\n#include <string>\nusing namespace std;\n\nstring reverseString(string s) {\n    // User's code here\n}\n\nint main() {\n    string input;\n    getline(cin, input);\n    cout << reverseString(input) << endl;\n    return 0;\n}",
+        "c": "#include <stdio.h>\n#include <string.h>\n\nvoid reverseString(char* s) {\n    // User's code here\n}\n\nint main() {\n    char input[100];\n    fgets(input, 100, stdin);\n    input[strcspn(input, '\\n')] = 0;\n    reverseString(input);\n    printf(\"%s\\n\", input);\n    return 0;\n}",
+        "javascript": "function reverseString(s) {\n    // User's code here\n}\n\nconst readline = require('readline');\nconst rl = readline.createInterface({\n    input: process.stdin,\n    output: process.stdout\n});\n\nrl.on('line', (input) => {\n    console.log(reverseString(input));\n    rl.close();\n});"
       },
       "testCases": [
-        { "input": "\"hello\"", "expectedOutput": "\"olleh\"" },
-        { "input": "\"world\"", "expectedOutput": "\"dlrow\"" }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Check Palindrome",
-      "description": "Write a function to check if a string is a palindrome.\n\n### Example:\nInput: `racecar`\nOutput: `true`",
-      "languages": {
-        "python": "def is_palindrome(s):\n    pass",
-        "java": "class Solution {\n    public boolean isPalindrome(String s) {\n        return false;\n    }\n}",
-        "c++": "#include<string>\nusing namespace std;\nbool isPalindrome(string s) {\n    return false;\n}",
-        "c": "#include<stdio.h>\nbool isPalindrome(char* s) {\n    return false;\n}",
-        "javascript": "function isPalindrome(s) {\n    return false;\n}"
-      },
-      "testCases": [
-        { "input": "\"racecar\"", "expectedOutput": "true" },
-        { "input": "\"hello\"", "expectedOutput": "false" }
+        { "input": "hello", "expectedOutput": "olleh" },
+        { "input": "world", "expectedOutput": "dlrow" }
       ]
     }
   ]
