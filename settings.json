@@ -1,6 +1,7 @@
 {
     "storyUrls": [
-      { "type": "image", "url": "https://i.imgur.com/Cko7fuj.png" }
+      { "type": "image", "url": "https://i.imgur.com/Cko7fuj.png" },
+        { "type": "video", "url": "https://www.youtube.com/shorts/4gYZLNcSpQw" }
     ],
     "contributors": [
       { "name": "Sekhar Parida", "url": "https://www.linkedin.com/in/sekhar-parida-07b994220/" },
